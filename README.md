@@ -38,7 +38,7 @@ My name is Lucas, I have a degree in Systems Analysis and Development (ADS) and 
   
 <div align=center>
   
- <img src="https://raw.githubusercontent.com/LucasTessalli/LucasTessalli/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/LucasTessalli/LucasTessalli/output/snake.svg" alt="Snake animation"/>
   
 </div>
   
