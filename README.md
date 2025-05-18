@@ -1,4 +1,4 @@
-## Welcome 🙋🏼‍♂️
+## Hi there, welcome 🙋🏼‍♂️
 
 My name is Lucas, I have a degree in Systems Analysis and Development (ADS) and I am currently improving and developing my skills with Data Science and Artificial Intelligence (AI) courses. I am currently working in the logistics area and I also have solid experience in the administrative area with data and customer relations. I am in a career transition to the area of ​​Technology, development and fullstack programming.
 
